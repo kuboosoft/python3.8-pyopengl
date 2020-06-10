@@ -27,7 +27,7 @@ BuildRequires:  python3.8-numpy
 BuildRequires:  python3.8-Cython
 Requires:       freeglut
 Requires:       python3.8-numpy
-Requires:       python3-tkinter
+Requires:       python3.8
 
 
 %prep
